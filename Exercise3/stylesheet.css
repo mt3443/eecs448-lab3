@@ -1,8 +1,9 @@
 body {
 	background-color: gray;
 	background-image: url(https://ib1.hulu.com/show_key_art/22881?size=1600x600&region=US);
-	background-size: 40%;
+	background-size: 20%;
 	background-repeat: no-repeat;
+	background-position: bottom right;
 }
 
 p {
@@ -18,9 +19,11 @@ p {
 }
 
 a:hover {
-	color: green;
+	color: white;
 }
 
 a {
 	color: blue;
+	font-size: 18px;
+	font-family: arial;
 }
